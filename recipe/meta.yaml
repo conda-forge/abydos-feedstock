@@ -1,6 +1,6 @@
 {% set name = "abydos" %}
-{% set version = "0.2.0" %}
-{% set sha256 = "4aa74b146fab0a1e4105dc9e3d829fbb64c05c18632377cf945fbf656188fb03" %}
+{% set version = "0.3.0" %}
+{% set sha256 = "af416432d00fcaa2ba1f8eb1befea17600b7b8d8b62fd2f5cc1dd947bca9ebcd" %}
 
 package:
   name: "{{ name|lower }}"
