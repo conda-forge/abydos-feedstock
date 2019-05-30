@@ -23,6 +23,7 @@ requirements:
     - numpy
     - six
     - python
+    - deprecation
 
 test:
   imports:
